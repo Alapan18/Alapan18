@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @Alapan18
 - 👀 I’m interested in software dev(android)
+- 💞️ I'm a Software Engineer and Cybersecurity Professional
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on android and machine learning projects 
 - 📫 How to reach me ? email:- pradhan.alapan.1@gmail.com
-
-<h2 align="left">Hi 👋! My name is Alapan Pradhan and I'm a Software Engineer and Cybersecurity Professional , from India</h2>
-
 ###
 
 <div align="center">
