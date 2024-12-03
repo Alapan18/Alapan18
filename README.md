@@ -2,7 +2,7 @@
 ###
 
 <img  src="https://readme-typing-svg.herokuapp.com?color=7C3BED&lines=👋+Hi..!+I+am+Alapan+Pradhan" width="100%">
-<img align="right" height="200" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"  />
+<img align="right" height="180" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"  />
 <hr />
 
 
