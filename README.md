@@ -55,7 +55,7 @@
 <br clear="both">
 
 <picture>
-  <source
+  <source align="center"
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
   />
