@@ -6,6 +6,14 @@
 - 📫 How to reach me ? email:- pradhan.alapan.1@gmail.com
 ###
 
+<img  src="https://readme-typing-svg.herokuapp.com?color=7C3BED&lines=Hi..!+I+am+Alapan+Pradhan" width="100%">
+<hr />
+<img  src="https://github-profile-trophy.vercel.app/?username=Alapan18" width="100%">
+
+
+<p  align="center"><img src='https://komarev.com/ghpvc/?username=Alapan18&color=green' alt='Profile views'><br /></p>
+<p  align="center"><img  src="https://github-readme-stats.vercel.app/api?username=Alapan18&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=true"  alt="GitHub stats" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alapan18&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true" alt="Top Langs" /><br /><br /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alapan18&theme=tokyonight_duo&hide_border=true" alt="Alapan18's readme streaks" /></p>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alapan18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
