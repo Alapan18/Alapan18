@@ -21,7 +21,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/Ll22OhMLAlVDb8UQWe/source.gif"  />
+<img align="right" height="150" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"  />
 
 ###
 
