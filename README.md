@@ -1,14 +1,15 @@
 - 👋 Hi, I’m @Alapan18
+
+###
+
+<img  src="https://readme-typing-svg.herokuapp.com?color=7C3BED&lines=👋+Hi..!+I+am+Alapan+Pradhan" width="100%">
+<hr />
 - 👀 I’m interested in software dev(android)
 - 💞️ I'm a Software Engineer and Cybersecurity Professional
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on android and machine learning projects 
 - 📫 How to reach me ? email:- pradhan.alapan.1@gmail.com
-###
 
-<img  src="https://readme-typing-svg.herokuapp.com?color=7C3BED&lines=Hi..!+I+am+Alapan+Pradhan" width="100%">
-<hr />
-<img  src="https://github-profile-trophy.vercel.app/?username=Alapan18" width="100%">
 
 
 <p  align="center"><img src='https://komarev.com/ghpvc/?username=Alapan18&color=green' alt='Profile views'><br /></p>
@@ -71,3 +72,5 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+<img  src="https://github-profile-trophy.vercel.app/?username=Alapan18" width="100%">
