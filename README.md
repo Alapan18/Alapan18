@@ -7,13 +7,17 @@
 
 
 - 👀 I’m interested in software dev(android)
+- 
 - 💞️ I'm a Software Engineer and Cybersecurity Professional
+- 
 - 🌱 I’m currently learning machine learning
+- 
 - 💞️ I’m looking to collaborate on android and machine learning projects
+- 
 - 📫 How to reach me ? email:- pradhan.alapan.1@gmail.com
 
 
-
+<hr/>
 <p  align="center"><img src='https://komarev.com/ghpvc/?username=Alapan18&color=39FF14' alt='Profile views'><br /></p>
 <hr/><p  align="center"><img  src="https://github-readme-stats.vercel.app/api?username=Alapan18&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=true"  alt="GitHub stats" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alapan18&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true" alt="Top Langs" /><br /><br /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alapan18&theme=tokyonight_duo&hide_border=true" alt="Alapan18's readme streaks" /></p>
 
