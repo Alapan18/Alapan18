@@ -3,6 +3,7 @@
 
 <img  src="https://readme-typing-svg.herokuapp.com?color=7C3BED&lines=👋+Hi..!+I+am+Alapan+Pradhan" width="100%">
 <img align="right" height="200" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"  />
+<hr />
 
 
 - 👀 I’m interested in software dev(android)
@@ -12,6 +13,7 @@
 - 📫 How to reach me ? email:- pradhan.alapan.1@gmail.com
 
 
+<hr />
 
 <p  align="center"><img src='https://komarev.com/ghpvc/?username=Alapan18&color=green' alt='Profile views'><br /></p>
 <p  align="center"><img  src="https://github-readme-stats.vercel.app/api?username=Alapan18&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=true"  alt="GitHub stats" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alapan18&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true" alt="Top Langs" /><br /><br /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alapan18&theme=tokyonight_duo&hide_border=true" alt="Alapan18's readme streaks" /></p>
