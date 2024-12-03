@@ -6,7 +6,7 @@
 
 
 
-- 👀 I’m interested in software dev(android)
+- 👀 I’m interested in AI Model Development & Reasearch
   
 - 💞️ I'm a Software Engineer and Cybersecurity Professional
   
