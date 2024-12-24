@@ -17,6 +17,7 @@
 <hr/>
 <p  align="center"><img height='60'src='https://komarev.com/ghpvc/?username=Alapan18&color=39FF14' alt='Profile Views'><br /></p>
 <p  align="center"><img  src="https://github-readme-stats.vercel.app/api?username=Alapan18&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=true"  alt="GitHub stats" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alapan18&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true" alt="Top Langs" /><br /><br /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alapan18&theme=tokyonight_duo&hide_border=true" alt="Alapan18's readme streaks" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Alapan18&theme=great-gatsby&background=45%2CC24545E1%2C000000" alt="GitHub Streak" /></a>
 
 <hr/>
 
